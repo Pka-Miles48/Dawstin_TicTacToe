@@ -23,7 +23,6 @@
         android:text="Player X's Turn"
         android:textSize="16sp" />
 
-
     <GridLayout
         android:id="@+id/gridLayout"
         android:layout_width="match_parent"
